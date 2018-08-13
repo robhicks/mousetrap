@@ -1,0 +1,10 @@
+{
+  "name": "mousetrap",
+  "description": "Simple library for handling keyboard shortcuts",
+  "main": "mousetrap.js",
+  "dependencies": {
+    "fs-globals": "fs-webdev/fs-globals#^3.0.4",
+    "fs-icons": "fs-webdev/fs-icons#~1.16.0"
+  },
+  "license": "Apache-2.0 WITH LLVM-exception"
+}
